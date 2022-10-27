@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(73, 160, 65);
+   
+}
+#root {
+    align-items: center;
+    text-align: center;
+    position: relative;
+    
+}
+h1 {
+   
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 19px;
+    padding: 25px 40px;
+    
+}
+
+p {
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 13px;
+    padding: 0px 40px;
+    
+}
